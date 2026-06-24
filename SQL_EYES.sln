@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_EYES", "SQL_EYES\SQL_EYES.csproj", "{C84E07BF-FFF4-4665-A730-1761A0346F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84E07BF-FFF4-4665-A730-1761A0346F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84E07BF-FFF4-4665-A730-1761A0346F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84E07BF-FFF4-4665-A730-1761A0346F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84E07BF-FFF4-4665-A730-1761A0346F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD1C66A-D7F2-43BA-91C7-7A7217666DA8}
+	EndGlobalSection
+EndGlobal
